@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Май апликейшн</string>
+    <string name="navigation_drawer_open">Опен навигейшн дровер</string>
+    <string name="navigation_drawer_close">Клоуз навигейшн дровер</string>
+    <string name="nav_header_title">Андроид Студио</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">навигейшн хедр</string>
+    <string name="action_settings">Даркмод/Лайтмод</string>
+    <string name="action_language">Лангуаге</string>
+
+    <string name="menu_home">Фильмы для детей</string>
+    <string name="menu_gallery">Фильмы для взрослых</string>
+    <string name="menu_slideshow">Фильмы для средних</string>
+
+</resources>
